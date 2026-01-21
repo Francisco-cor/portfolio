@@ -1,13 +1,12 @@
 # portfolio
 
 **Professional Portfolio — Francisco Cordero Aguero**  
-*Software Engineer (.NET | React | AWS) with background in Mechatronics*
+*AI Software Engineer | Python & LLM Specialist | RAG & Agentic Systems | Mechatronics Background*
 
 ---
 
 ### Overview
-This repository serves as my professional portfolio.  
-It contains my **technical projects**, **resume**, and **cover letter**
+Focused on building end-to-end **AI applications**—from rapid prototyping to scalable production. Specializing in **LLM-based systems**, **RAG pipelines**, and **agentic workflows** with a product-centric engineering mindset.
 
 ---
 
@@ -26,20 +25,19 @@ It contains my **technical projects**, **resume**, and **cover letter**
 
 ### Technical Skills
 
-- **AI & LLM:** RAG, Prompt Engineering, Agentic Workflows (Swarm/Consensus), Fine-tuning, OpenAI, Google GenAI SDK (2025), n8n (Automation)
+- **AI & LLM:** Prompt Engineering, Agentic Workflows (Swarm/Consensus), RAG, Fine-tuning, OpenAI, Google GenAI SDK, n8n
 - **Backend:** Python (FastAPI), C# (.NET 8), Node.js, REST/GraphQL
 - **Frontend:** JavaScript/TypeScript, React, Next.js, Astro, AngularJS
 - **Data & Cloud:** PostgreSQL, Redis (Caching), Vector DBs (ChromaDB, Supabase), Oracle, AWS (ECS/Fargate), Docker, GitHub Actions
 - **Mechatronics:** Robotics, Automatization and Control, Metallurgy, Neumatics, CNC
 - **Concepts:** ITIL, Agile/Scrum, Manufacturing Telemetry, Computer Vision
-- **Languages:** English (C1 - Fluent), Spanish (Native)
+- **Languages:** English (C1), Spanish (Native)
 
 ---
 
 ### Documents
 
-- **[Curriculum Vitae (EN)](./CV_Francisco_Cordero.pdf)**  
-- **[Cover Letter (ES)](./Carta_Presentacion.pdf)** 
+- **[Curriculum Vitae (EN)](./CV_Francisco_Cordero.pdf)** 
 
 ---
 
